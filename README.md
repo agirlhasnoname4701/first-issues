@@ -16,7 +16,7 @@ or telegram channel
 <a href="https://www.buymeacoffee.com/arshadkazmi42" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
 <a href="https://www.patreon.com/bePatron?u=15454240" target="_blank"><img src="https://c5.patreon.com/external/logo/become_a_patron_button.png" alt="Become a Patron!" height="40"></a>
 
-Please consider donating, to keep our servers up and running 
+Please consider donating, to keep our servers up and running.
 
 </div>
 
@@ -32,7 +32,7 @@ Read our how to use guide [here](HOW_TO_USE.md).
 
 ## Deployment
 
-Currently this application can be deployed as docker container or it can be deployed as standalone cron job
+Currently this application can be deployed as docker container or it can be deployed as standalone cron job.
 
 - [Docker Deployment](DOCKER_DEPLOYMENT.md)
 
@@ -40,11 +40,11 @@ Currently this application can be deployed as docker container or it can be depl
 
 Seeing any errors while running the bot? Check out the [Troubleshooting Guide](TROUBLESHOOTING.md).
 
-If your problem is not present there, then go ahead and create an [issue](https://github.com/arshadkazmi42/first-issues/issues/new)
+If your problem is not present there, then go ahead and create an [issue](https://github.com/arshadkazmi42/first-issues/issues/new).
 
 ## Contributing
 - If you have got any suggestions, drop your suggestions [here](https://github.com/arshadkazmi42/first-issues/issues/new).
-- If you want to fix some existing bugs in the script, you can find open issues [here](https://github.com/arshadkazmi42/first-issues/issues)
+- If you want to fix some existing bugs in the script, you can find open issues [here](https://github.com/arshadkazmi42/first-issues/issues).
 
 Read our Contribution guide [here](Contribution.md).
 
@@ -65,5 +65,5 @@ Read our license [here](https://github.com/arshadkazmi42/first-issues/blob/maste
 
 ## Credits
 
-This is inspired by [Utkarsh's](https://github.com/musically-ut) work on [first-timers-only-bot](https://github.com/musically-ut/first-timers-only-bot)
+This is inspired by [Utkarsh's](https://github.com/musically-ut) work on [first-timers-only-bot](https://github.com/musically-ut/first-timers-only-bot).
 
